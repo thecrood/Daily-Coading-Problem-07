@@ -1,4 +1,4 @@
-# Daily-Coading-Problem-07
+# Daily-Coding-Problem-07
 
 This problem was asked by Facebook.
 
